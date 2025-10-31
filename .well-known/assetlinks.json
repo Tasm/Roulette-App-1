@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.tasm.twa",
-        "sha256_cert_fingerprints": ["67:44:E5:13:05:3C:53:88:0B:D7:F8:6B:51:CB:BB:F1:FC:73:88:4C:5C:B5:8A:28:E6:69:D6:9C:D6:72:A8:37"]
+        "package_name": "io.github.tasm.twa.v2",
+        "sha256_cert_fingerprints": ["62:73:ED:7F:9B:B5:26:51:D7:60:A2:70:81:2F:02:42:9F:E9:D8:34:15:79:A5:CC:E7:18:ED:13:C3:C5:30:B0"]
       }
     }]
