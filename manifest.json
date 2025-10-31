@@ -1,7 +1,7 @@
 {
-  "name": "Gamble Galaxy Roulette Tracker",
-  "short_name": "Roulette Stats Tracker",
-  "id": "/Roulette-App-1/",
+  "name": "Roulette Stats Tracker",
+  "short_name": "Roulette Stats",
+  "id": "/Roulette-App-1/v2/",
   "description": "Professional roulette statistics tracker with comprehensive analysis",
   "start_url": "/Roulette-App-1/",
   "scope": "/Roulette-App-1/",
