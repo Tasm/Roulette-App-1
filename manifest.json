@@ -1,9 +1,10 @@
 {
-  "name": "Roulette Stats Tracker",
-  "short_name": "Roulette Stats",
-  "id": "/roulette-stats/",
+  "name": "Gamble Galaxy Roulette Tracker",
+  "short_name": "Roulette Stats Tracker",
+  "id": "/Roulette-App-1/",
   "description": "Professional roulette statistics tracker with comprehensive analysis",
-  "start_url": "/index.html",
+  "start_url": "/Roulette-App-1/",
+  "scope": "/Roulette-App-1/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#7c3aed",
@@ -14,13 +15,13 @@
   "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/Roulette-App-1/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "/Roulette-App-1/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -28,14 +29,14 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot-1.png",
+      "src": "/Roulette-App-1/screenshot-1.png",
       "sizes": "378x818",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Track your roulette spins"
     },
     {
-      "src": "screenshot-2.png",
+      "src": "/Roulette-App-1/screenshot-2.png",
       "sizes": "378x819",
       "type": "image/png",
       "form_factor": "narrow",
