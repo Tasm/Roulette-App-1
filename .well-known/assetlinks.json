@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.netlify.peaceful_zabaione_956be6.twa",
-        "sha256_cert_fingerprints": ["6F:70:79:03:EC:39:79:55:BE:5F:66:73:68:8D:3E:00:D0:B8:99:31:9F:78:B5:B8:89:74:8A:3C:F9:26:F3:95"]
+        "package_name": "app.netlify.roulettetracker.twa",
+        "sha256_cert_fingerprints": ["93:EB:FC:E0:48:17:A3:A3:17:AF:D6:FD:1C:EC:C4:9B:65:50:57:6B:A0:77:F1:AB:59:4D:DF:57:BB:F1:C8:0A"]
       }
     }]
