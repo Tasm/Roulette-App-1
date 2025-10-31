@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.netlify.roulettetracker.twa",
-        "sha256_cert_fingerprints": ["93:EB:FC:E0:48:17:A3:A3:17:AF:D6:FD:1C:EC:C4:9B:65:50:57:6B:A0:77:F1:AB:59:4D:DF:57:BB:F1:C8:0A"]
+        "package_name": "io.github.tasm.twa",
+        "sha256_cert_fingerprints": ["38:FE:7D:21:15:F6:8B:0C:F8:32:D2:41:BD:D8:6D:E4:0D:8F:CF:29:E8:C0:0F:3C:B3:77:86:B2:1F:53:1B:E5"]
       }
     }]
