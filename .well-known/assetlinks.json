@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.tasm.twa",
-        "sha256_cert_fingerprints": ["25:A2:9B:84:D3:55:FF:32:6E:04:E2:33:32:EB:08:E2:56:77:4F:E6:36:57:54:00:95:EB:32:46:6F:72:E3:8D"]
+        "sha256_cert_fingerprints": ["67:44:E5:13:05:3C:53:88:0B:D7:F8:6B:51:CB:BB:F1:FC:73:88:4C:5C:B5:8A:28:E6:69:D6:9C:D6:72:A8:37"]
       }
     }]
